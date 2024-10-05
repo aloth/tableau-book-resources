@@ -8,7 +8,7 @@ This repository contains supplementary material for the book "Visual Analytics w
 
 "Visual Analytics with Tableau" is a comprehensive guide to mastering Tableau, covering everything from the basics of data visualization to advanced analytics techniques. Whether you're a beginner or an experienced user, this book provides valuable insights and practical examples to enhance your Tableau skills.
 
-For more information about the book, visit the [official book website](https://www.alexloth.com/tableau-book).
+For more information about the book, visit the [official book website](https://alexloth.com/tableau-book).
 
 ## Repository Contents
 
@@ -35,7 +35,7 @@ Although this is primarily a resource repository, we welcome contributions that 
 
 ## Contact
 
-For questions about the book or this repository, please open an [issue](https://github.com/aloth/tableau-book-resources/issues) or contact Alexander Loth via [his website](https://www.alexloth.com).
+For questions about the book or this repository, please open an [issue](https://github.com/aloth/tableau-book-resources/issues) or contact Alexander Loth via [his website](https://alexloth.com).
 
 ---
 
