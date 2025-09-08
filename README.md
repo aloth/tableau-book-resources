@@ -1,9 +1,7 @@
 # Visual Analytics with Tableau - Supplementary Material
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/aloth/tableau-book-resources)](https://github.com/aloth/tableau-book-resources/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/aloth/tableau-book-resources?style=social)](https://github.com/aloth/tableau-book-resources/stargazers)
-[![Companion Website](https://img.shields.io/badge/Companion%20Website-alexloth.com-blue)](https://alexloth.com/tableau-book/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-book/)
 [![Follow on X](https://img.shields.io/twitter/follow/VisAnalyticsNYC?style=social)](https://x.com/VisAnalyticsNYC)
 
 > Official companion repository for ***Visual Analytics with Tableau*** by **Alexander Loth** (Wiley). This repo contains the Tableau Workbooks (`.twbx`) and Tableau Prep flows (`.tfl`) used throughout the book so you can follow along, experiment, and adapt the examples to your own data.
@@ -118,15 +116,16 @@ They’re conceptual and focus on process (connecting/publishing), not on discre
 
 ## How to cite
 
-If you reference the book or materials, please cite:
+If you reference the book or materials, please use the following BibTeX entry to cite the book:
 
 ```bibtex
-@book{loth2019visual,
-  title     = {Visual Analytics with Tableau},
-  author    = {Loth, Alexander},
-  year      = {2019},
-  publisher = {John Wiley & Sons},
-  isbn      = {978-1119560203}
+@book{loth_2019_visual,
+	title        = {Visual Analytics with Tableau},
+	author       = {Loth, Alexander},
+	year         = {2019},
+	publisher    = {John Wiley \& Sons},
+	isbn         = {978-1-119-56020-3},
+	url          = {https://alexloth.com/tableau-book/}
 }
 ```
 
@@ -142,7 +141,7 @@ Contributions that enhance the learning experience are welcome!
 
 ## About the author
 
-**Alexander Loth** is a Data Scientist and Digital Strategist with over 14 years of experience in AI, Data & Cloud.  
+**Alexander Loth** is a Data Scientist and Digital Strategist with over 15 years of experience in AI, Data & Cloud.  
 His career began at CERN and includes leadership roles at Microsoft, Tableau, and SAP. Today, he advises companies and organizations on their digital transformation journeys and is the author of several bestselling books.
 
 [![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
