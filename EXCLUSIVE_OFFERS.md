@@ -14,7 +14,7 @@ As a reader, you receive a free 3-month subscription to the Pro version of the a
 
 #### How to Redeem the Offer:
 
-1.  Download the Mindful Coffee app from the [Apple App Store](https://apps.apple.com/us/app/mindful-coffee-tracks-caffeine/id6742878005).
+1.  Download the Mindful Coffee app from the [Apple App Store](https://apps.apple.com/us/app/mindful-coffee-tracks-caffeine/id6742878005?platform=iphone).
 2.  Open the app and tap on the **"Settings"** tab in the bottom right corner.
 3.  Select the option **"Link Organizational Subscription"**.
 4.  Enter the company name: `TableauBook`
