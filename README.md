@@ -1,6 +1,6 @@
 # Visual Analytics with Tableau - Supplementary Material
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-book/)
 [![Follow on X](https://img.shields.io/twitter/follow/VisAnalyticsNYC?style=social)](https://x.com/VisAnalyticsNYC)
 
@@ -141,11 +141,7 @@ You can also link the companion site: [https://alexloth.com/tableau-book/](https
 
 ## Contributing
 
-Contributions that enhance the learning experience are welcome!
-
-1. Open an **[issue](https://github.com/aloth/tableau-book-resources/issues)** for bugs or suggestions.
-2. Fork the repo and submit a **pull request** with a clear description and screenshots if relevant.
-3. Please keep examples minimal, reproducible, and aligned with the book’s pedagogy.
+Contributions that enhance the learning experience are welcome! Open an **[issue](https://github.com/aloth/tableau-book-resources/issues)** for bugs or suggestions.
 
 ## About the author
 
@@ -159,7 +155,9 @@ His career began at CERN and includes leadership roles at Microsoft, Tableau, an
 
 ## License
 
-This repository is released under the **MIT License**. You’re free to use, modify, and distribute the materials with attribution. See [LICENSE](LICENSE) for details.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE).
 
 ## Acknowledgments
 
@@ -169,3 +167,5 @@ Thanks to **John Wiley & Sons** and the technical editors whose feedback improve
 
 > ⭐ If these resources help you, consider **starring** the repo and following the social links above to get updates and share your work!
 > 
+
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
