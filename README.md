@@ -127,13 +127,15 @@ They’re conceptual and focus on process (connecting/publishing), not on discre
 If you reference the book or materials, please use the following BibTeX entry to cite the book:
 
 ```bibtex
-@book{loth_2019_visual,
-	title        = {Visual Analytics with Tableau},
-	author       = {Loth, Alexander},
-	year         = {2019},
-	publisher    = {John Wiley \& Sons},
-	isbn         = {978-1-119-56020-3},
-	url          = {https://alexloth.com/tableau-book/}
+@book{loth2019tableau,
+  title      = {Visual Analytics with Tableau},
+  shorttitle = {Visual Analytics},
+  author     = {Loth, Alexander},
+  year       = {2019},
+  publisher  = {Wiley},
+  address    = {Hoboken, NJ},
+  isbn       = {978-1-119-56020-3},
+  url        = {https://alexloth.com/tableau-book/}
 }
 ```
 

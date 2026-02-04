@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+type: book
+title: "Visual Analytics with Tableau"
+authors:
+  - family-names: Loth
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0003-4157-7557
+date-released: 2019-08-20
+year: 2019
+publisher:
+  name: Wiley
+  city: Hoboken, NJ
+isbn: 978-1-119-56020-3
+url: https://alexloth.com/tableau-book/
+repository-code: https://github.com/aloth/tableau-book-resources
+keywords:
+  - Tableau
+  - visual analytics
+  - data visualization
+  - business intelligence
+license: CC-BY-4.0
