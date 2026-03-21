@@ -1,0 +1,36 @@
+name: "\U0001F4BB Code Issue"
+description: Problem with companion material
+labels: ["code-issue"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Affected File
+      description: Which file or example is not working?
+      placeholder: e.g., Chapter03/Example_DAX.pbix
+    validations:
+      required: true
+  - type: input
+    id: chapter
+    attributes:
+      label: Related Chapter / Page
+      placeholder: e.g., Chapter 3, page 47
+  - type: textarea
+    id: error
+    attributes:
+      label: Error Message
+      description: What error do you see?
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: What did you do before the error occurred?
+  - type: input
+    id: environment
+    attributes:
+      label: Software Version
+      description: What version are you using?
+      placeholder: e.g., Power BI Desktop June 2024 / Tableau 2024.1

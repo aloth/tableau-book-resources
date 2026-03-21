@@ -1,0 +1,35 @@
+name: "\U0001F4D6 Erratum"
+description: Report an error in the book
+labels: ["erratum"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Which page contains the error?
+      placeholder: e.g., 47
+    validations:
+      required: true
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter
+      description: Which chapter?
+      placeholder: e.g., Chapter 3
+  - type: input
+    id: edition
+    attributes:
+      label: Edition
+      description: Which edition do you have?
+      placeholder: e.g., 1st edition, 2023
+  - type: textarea
+    id: description
+    attributes:
+      label: Error Description
+      description: What is incorrect? Please quote the erroneous passage.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested Correction (optional)

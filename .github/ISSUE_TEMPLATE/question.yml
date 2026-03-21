@@ -1,0 +1,28 @@
+name: "\u2753 Book Question"
+description: Question about a chapter or example
+labels: ["question"]
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter / Section
+      description: Which chapter or example does your question relate to?
+      placeholder: e.g., Chapter 5, "Data Modeling"
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page (optional)
+      placeholder: e.g., 123
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What exactly is unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: What have you already tried? (optional)
