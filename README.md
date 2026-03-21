@@ -143,7 +143,11 @@ You can also link the companion site: [https://alexloth.com/tableau-book/](https
 
 ## Contributing
 
-Contributions that enhance the learning experience are welcome! Open an **[issue](https://github.com/aloth/tableau-book-resources/issues)** for bugs or suggestions.
+Contributions that enhance the learning experience are welcome! Use our issue templates:
+
+* 📖 **[Report an Erratum](https://github.com/aloth/tableau-book-resources/issues/new?template=erratum.yml)** — errors in the book
+* ❓ **[Ask a Question](https://github.com/aloth/tableau-book-resources/issues/new?template=question.yml)** — questions about chapters or examples
+* 💻 **[Report a Code Issue](https://github.com/aloth/tableau-book-resources/issues/new?template=code-issue.yml)** — problems with companion files
 
 ## About the author
 
