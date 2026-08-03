@@ -3,6 +3,7 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/tableau-book/)
 [![Follow on X](https://img.shields.io/twitter/follow/VisAnalyticsNYC?style=social)](https://x.com/VisAnalyticsNYC)
+[![R, Python & MATLAB](https://img.shields.io/badge/R%2C_Python_%26_MATLAB-Chapter_7-E97627)](chapter07)
 
 > Official companion repository for ***Visual Analytics with Tableau*** by **Alexander Loth** (Wiley). This repo contains the Tableau Workbooks (`.twbx`) and Tableau Prep flows (`.tfl`) used throughout the book so you can follow along, experiment, and adapt the examples to your own data.
 
