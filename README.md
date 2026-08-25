@@ -129,14 +129,15 @@ If you reference the book or materials, please use the following BibTeX entry to
 
 ```bibtex
 @book{loth2019tableau,
-  title      = {Visual Analytics with Tableau},
+  title      = {Visual Analytics with {Tableau}},
   shorttitle = {Visual Analytics},
   author     = {Loth, Alexander},
   year       = {2019},
   publisher  = {Wiley},
-  address    = {Hoboken, NJ},
+  address    = {Hoboken, NJ, USA},
   isbn       = {978-1-119-56020-3},
-  url        = {https://alexloth.com/tableau-book/}
+  url        = {https://alexloth.com/tableau-book/},
+  urldate    = {2026-08-25}
 }
 ```
 
