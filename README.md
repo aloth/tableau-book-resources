@@ -11,7 +11,7 @@
   <img src="https://alexloth.com/wp-content/uploads/2021/05/3d-hard-1024x944.png" alt="Book cover: Visual Analytics with Tableau by Alexander Loth" width="420" />
 </p>
 
-**Buy the book:** [Wiley](https://www.wiley.com/en-us/Visual+Analytics+with+Tableau-p-9781119560227) · [Amazon](https://www.amazon.com/-/de/dp/1119560209/) · More info on the [companion site](https://alexloth.com/tableau-book/)
+**Buy the book:** [alexloth.com/tableau-book](https://alexloth.com/tableau-book/) · also at [Wiley](https://www.wiley.com/en-us/Visual+Analytics+with+Tableau-p-9781119560227) and [Amazon](https://www.amazon.com/-/de/dp/1119560209/)
 
 ---
 
@@ -37,12 +37,6 @@
    * Open the matching chapter folder and work through the examples step-by-step.
 
 > **Tip:** If Tableau prompts you to upgrade a workbook created with an older version, accept the upgrade; save under a new filename to keep the originals untouched.
-
-## 🎁 Exclusive Offers for Readers
-
-As a reader of the book, you get access to exclusive partner offers designed to enhance your learning experience.
-
-➡️ **[View All Partner Offers](./EXCLUSIVE_OFFERS.md)**
 
 ## Chapter overview
 
@@ -142,6 +136,8 @@ If you reference the book or materials, please use the following BibTeX entry to
 ```
 
 You can also link the companion site: [https://alexloth.com/tableau-book/](https://alexloth.com/tableau-book/).
+
+GitHub also reads `CITATION.cff` in this repository, so the **Cite this repository** button in the sidebar produces the same reference with the author ORCID attached.
 
 ## Contributing
 
