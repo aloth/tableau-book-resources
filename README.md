@@ -157,9 +157,26 @@ Contributions that enhance the learning experience are welcome! Use our issue te
 His career began at CERN and includes leadership roles at Microsoft, Tableau, and SAP. Today, he advises companies and organizations on their digital transformation journeys and is the author of several bestselling books.
 
 [![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9327--6865-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0003-9327-6865)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
 [![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Alexander%20Loth-orange?style=flat-square&logo=tableau)](https://public.tableau.com/profile/alexander.loth#!/)
+
+## 📚 More books by the author
+
+Companion repositories for the other books:
+
+| Book | Publisher |
+|:---|:---|
+| [Content Creation mit generativer KI](https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien) | mitp 2026 |
+| [KI für Content Creation](https://github.com/aloth/KI-Buch-Begleitmaterialien) | mitp 2024 |
+| [Microsoft Power BI: Das Praxisbuch](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien) | mitp 2026 |
+| [Datenvisualisierung mit Power BI](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien) | mitp 2022 |
+| [Datenvisualisierung mit Tableau](https://github.com/aloth/Tableau-Buch-Begleitmaterialien) | mitp 2021 |
+| [Teach Yourself VISUALLY Power BI](https://github.com/aloth/power-bi-book-resources) | Wiley 2023 |
+| [Decisively Digital](https://github.com/aloth/decisively-digital-book-resources) | Wiley 2021 |
+
+**Note:** [Datenvisualisierung mit Tableau](https://github.com/aloth/Tableau-Buch-Begleitmaterialien) is the German-language Tableau book.
 
 ## License
 
